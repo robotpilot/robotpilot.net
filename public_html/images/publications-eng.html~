@@ -1,0 +1,188 @@
+<!----------------------------------------------------------------------------->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!----------------------------------------------------------------------------->
+<head>
+    <!--
+    Design by Free CSS Templates
+    http://www.freecsstemplates.org
+    Released for free under a Creative Commons Attribution 2.5 License
+    Title      : Emporium
+    Version    : 1.0
+    Released   : 20090222
+    Description: A two-column, fixed-width and lightweight template ideal for 1024x768 resolutions. Suitable for blogs and small websites.
+    -->
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" /><title>Robot Pilot</title>
+    <meta name="keywords" content="표윤석, Yoonseok Pyo, Pyo, robotpilot" />
+    <meta name="description" content="Yoonseok Pyo's webpage" />
+    <link href="default.css" rel="stylesheet" type="text/css" />
+</head>
+
+<!----------------------------------------------------------------------------->
+<body>
+
+<!----------------------------------------------------------------------------->
+<!-- start header -->
+<div id="wrapper">
+    <div id="logo">
+        <h1><a href="index-eng.html">Robot Pilot </a></h1>
+        <h2>&nbsp;&nbsp;&nbsp;Yoonseok Pyo</h2>
+        <div style="text-align: right;"><br />
+            <br /><br /><br /><br /><br /><br />
+            | <a href="publications-kor.html">KOREAN</a> | <a href="publications-jap.html">JAPANESE</a>| <a href="publications-eng.html">ENGLISH</a> |
+        </div>
+    </div>
+    <div id="header">
+        <div id="menu">
+            <ul>
+                <li class="current_page_item"><a href="index-eng.html">Home</a></li>
+                <li><a href="profile-eng.html">Profile</a></li>
+                <li><a href="research-eng.html">Research</a></li>
+                <!--<li><a href="projects-eng.html">Projects</a></li>-->
+                <li><a href="publications-eng.html">Publications</a></li>
+                <li><a href="awards-eng.html">Awards</a></li>
+                <li><a href="masscom-eng.html">Masscom</a></li>
+                <li><a href="link-eng.html">Link</a></li>
+                <li class="last"><a href="contact-eng.html">Contact</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+<!-- end header -->
+
+<!----------------------------------------------------------------------------->
+<!-- start page -->
+<div id="page">
+
+<!----------------------------------------------------------------------------->
+<!-- start content -->
+<div id="content">
+<div class="post">
+<div style="text-align: justify;">
+<font face="Arial">
+
+<!--
+<h2>Journals</h2>
+<img src="images/common/line.png">
+<br />
+<br />
+<ul>
+    <li><br>
+    <br>
+    <br>
+    <br />
+</ul>
+-->
+
+<h2>Conference Proceedings (International)</h2>
+<img src="images/common/line.png">
+<br />
+<br />
+<ul>
+    <li>"High-precision three-dimensional laser measurement system by cooperative multiple mobile robots"<br>
+    Yongjin Jeong, Ryo Kurazume, Yoonseok Pyo, Yumi Iwashita, Tsutomu Hasegawa<br>
+    2012 IEEE/SICE International Symposium on System Integration (SII2012), 2012. (to appear)<br>
+    <!--2012 IEEE/SICE International Symposium on System Integration (SII2012), pp.-, Dec. 16-18, 2012.<br> -->
+    <br />
+</ul>
+<h2>Conference Proceedings (Domestic)</h2>
+<img src="images/common/line.png">
+<br />
+<br />
+<ul>
+    <li>“レーザレンジファインダの反射強度を利用した物体及びロボットの位置計測”<br>
+    表允晳, 田中真英, 長谷川勉, 辻徳生, 諸岡健一, 倉爪亮<br>
+    第13回計測自動制御学会システムインテグレーション部門講演会(SI2012), (2012.12). (to appear)<br>
+    <br />
+    <li>“レーザレンジファインダを用いた床上センシングによる室内生活行動の計測”<br>
+    田中真英，表允晳，辻徳生，長谷川勉，諸岡健一，倉爪亮<br>
+    第13回計測自動制御学会システムインテグレーション部門講演会(SI2012), (2012.12). (to appear)<br>
+    <br />
+    <li>“クラウドTMS: ロボットタウンマネジメントのためのスケーラブルな分散処理システム”<br>
+    辻徳生, 表允晳, 曾昀, 永田晃洋, 長谷川勉, 倉爪亮, 諸岡健一, 村上剛司<br>
+    第13回計測自動制御学会システムインテグレーション部門講演会(SI2012), (2012.12). (to appear)<br>
+    <br />
+    <li>“レーザレンジファインダによる反射強度と位置計測を用いた床上センシングシステム”<br>
+    表允皙, 長谷川勉, 曾昀, 辻徳生, 諸岡健一, 倉爪亮<br>
+    日本ロボット学会第30回記念学術講演会2012, 2H2-2, (2012.09).<br>
+    <br />
+    <li>“ジェスチャによる移動ロボットへの動作目標指示と誤差修正”<br>
+    表允皙, 長谷川勉, 辻徳生, 諸岡健一, 倉爪亮<br>
+    第29回日本ロボット学会学術講演会予稿集, 3O1-7, (2011.09).<br>
+    <br />
+</ul>
+
+<!--
+<h2>Workshops</h2>
+<img src="images/common/line.png">
+<br />
+<br />
+<ul>
+    <li><br>
+    <br>
+    <br>
+    <br />
+</ul>
+-->
+
+</font>
+</div>
+</div>
+</div>
+<!-- end content -->
+
+<!----------------------------------------------------------------------------->
+<!-- start sidebar -->
+<div id="sidebar">
+<ul>
+    <li>
+        <h2>I love ROBOT!</h2>
+        <ul>
+            <li><a href="profile-eng.html">About Me</a></li>
+            <li><a href="research-eng.html">My Research...</a></li>
+            <!--<li><a href="projects-eng.html">Development Activities</a></li>-->
+            <li><a href="publications-eng.html">Publications</a></li>
+            <li><a href="awards-eng.html">Robot Contest and Awards</a></li>
+            <li><a href="masscom-eng.html">Media Activity</a></li>
+            <li><a href="link-eng.html">Related Link</a></li>
+            <li><a href="contact-eng.html">Contact Me</a></li>
+        </ul>
+    </li>
+    <li>
+        <h2>Link</h2>
+        <a href="http://www.kyushu-u.ac.jp/english/" target="_blank"><img style="border: 0px solid ; width: 180px; height: 45px;" alt="" src="images/banner/bn_kyushu_e.gif" /></a> 
+        <a href="http://www.eng.kyushu-u.ac.jp/e/" target="_blank"><img style="border: 0px solid ; width: 180px; height: 45px;" alt="" src="images/banner/bn_kyushu_k_e.gif" /></a> 
+        <a href="http://portal.isee.kyushu-u.ac.jp/e/" target="_blank"><img style="border: 0px solid ; width: 180px; height: 45px;" alt="" src="images/banner/bn_isee_e.gif" /></a> 
+        <a href="http://fortune.is.kyushu-u.ac.jp/index-top-e.html" target="_blank"><img style="border: 0px solid ; width: 180px; height: 30px;" alt="" src="images/banner/bn_irvs.gif" /></a> 
+        <a href="http://fortune.ait.kyushu-u.ac.jp/index-e.html" target="_blank"><img style="border: 0px solid ; width: 180px; height: 45px;" alt="" src="images/banner/bn_hasegawa_e.gif"/></a> 
+        <a href="http://robotics.ait.kyushu-u.ac.jp/index-e.html" target="_blank"><img style="border: 0px solid ; width: 180px; height: 45px;" alt="" src="images/banner/bn_kurazume_e.gif" /></a>
+    </li>
+</ul>
+</div>
+<!-- end sidebar -->
+
+<!----------------------------------------------------------------------------->
+<div style="clear: both;">&nbsp;</div>
+</div>
+<!-- end page -->
+
+<!----------------------------------------------------------------------------->
+<!-- start footer -->
+<div id="footer">
+    <p id="legal">
+        Copyright 2009-2012 All rights reserved. 
+        <a target="_top" href="http://www.robotpilot.net/">www.robotpilot.net</a>
+        / Made by Yoonseok Pyo / Design by 
+        <a target="_blank" href="http://www.freecsstemplates.org/">Free CSS Templates</a>
+    </p>
+</div>
+<!-- end footer -->
+
+<!----------------------------------------------------------------------------->
+</body>
+
+<!----------------------------------------------------------------------------->
+</html>
+
+<!----------------------------------------------------------------------------->
